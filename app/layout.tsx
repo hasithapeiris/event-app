@@ -11,7 +11,7 @@ const poppins = Poppins({
 });
 
 export const metadata: Metadata = {
-  title: "Eventy",
+  title: "Evently",
   description: "Next.js event manager",
 };
 
